@@ -1,3 +1,4 @@
-theme: jekyll-theme-tactile
+theme: just-the-docs
 title: Paul Massendari's blog
 permalink: /blog/:year/:month/:day/:title/
+url: https:/paulmassen.github.io/
